@@ -46,7 +46,8 @@ import com.codename1.ui.util.Resources;
 import java.io.IOException;
 
 /**
- * Demo of Codename One inspired by the classic soundblaster demo and Apples imessage design
+ * Demo of <a href="https://www.codenameone.com/">Codename One</a> inspired by the classic 
+ * soundblaster demo and Apples imessage design. 
  * 
  * @author Shai Almog
  */
